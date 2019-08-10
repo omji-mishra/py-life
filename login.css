@@ -1,0 +1,6 @@
+h1 {
+  text-align: center;
+}
+#email_id,#password_id {
+	float: left;
+}
